@@ -1,0 +1,10 @@
+Mean Squared Error for  3  coefficients is: 0.7391146934934565
+Mean Squared Error for  4  coefficients is: 0.27449302386652136
+Mean Squared Error for  5  coefficients is: 0.13372574458574307
+Mean Squared Error for  6  coefficients is: 0.0764453265175524
+Mean Squared Error for  7  coefficients is: 0.04786891734764731
+Mean Squared Error for  8  coefficients is: 0.046238285609869936
+Mean Squared Error for  9  coefficients is: 0.024752769944473195
+Mean Squared Error for  10  coefficients is: 0.025178355171749107
+Mean Squared Error for  11  coefficients is: 0.015933810219871808
+Mean Squared Error for  12  coefficients is: 0.016276025231714817
