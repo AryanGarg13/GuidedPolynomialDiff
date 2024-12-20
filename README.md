@@ -12,4 +12,4 @@ Final Trajectories after Reconstruction:-
 ![Demo](output_2.gif)
 ![Demo](output_3.gif)
 
-As we can see we can smooth trajectories from the diffusion model and reconstruction.  
+As we can see we get smooth trajectories from the diffusion model and reconstruction.  
